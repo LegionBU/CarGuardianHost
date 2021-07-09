@@ -1,2 +1,0 @@
-# CarGuardianHost
-Only for hosting
